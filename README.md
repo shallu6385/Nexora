@@ -99,6 +99,16 @@ flutter run
 ## Screenshots
 
 Application screenshots will be added here as the interface and features are finalized.
+## 📸 Screenshots
+
+### 🔐 Login Screen
+
+![Nexora Login Screen](screenshots/login.png)
+
+### 🏠 Dashboard
+
+![Nexora Dashboard](screenshots/dashboard.png)
+
 
 ## Future Enhancements
 
